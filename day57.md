@@ -1,5 +1,18 @@
 **# Day 57**
 
+- [Section 3: Protocols](#section-3-protocols)
+  - [21. TCP](#21-tcp)
+    - [Use cases of TCP](#use-cases-of-tcp)
+    - [TCP connection](#tcp-connection)
+    - [Connection Establishment (diagram)](#connection-establishment-diagram)
+    - [Sending data (diagram)](#sending-data-diagram)
+    - [Acknowledgement (diagram)](#acknowledgement-diagram)
+    - [Lost data (diagram)](#lost-data-diagram)
+    - [Closing connection (diagram)](#closing-connection-diagram)
+    - [Summary (TCP)](#summary-tcp)
+    - [TCP Segment](#tcp-segment)
+    - [Maximum Segment Size](#maximum-segment-size)
+
 # Section 3: Protocols
 
 ## 21. TCP
